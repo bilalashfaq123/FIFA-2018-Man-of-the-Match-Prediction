@@ -21,6 +21,9 @@ It is a classification technique based on Bayes' Theorem with an assumption of i
 Naïve Bayes does not provide as good accuracy as other provided in the given data set. It’s actually 50% which is random guessing and 87% accuracy for the testing data 
 # Cross Validation
 Cross Validation for all the models have also been done. you can see the results in my comitted kaggle kernel,
+# Data File
+Data file is also provided in the repository named "FIFA 2018 Statistics"
+
 # For Support and Help
 Email: bilal75210@gmail.com
 kaggle link: https://www.kaggle.com/bilal75210/project-data-science
